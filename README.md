@@ -1,5 +1,7 @@
 # NTorrent
 
+![NTorrent torrent dashboard](NTorrent-SocialPreview.png)
+
 **A streamlined, lightweight BitTorrent client for Windows.**
 
 NTorrent is a simplified, carefully trimmed-down take on the qBittorrent experience — keeping the core torrent functionality while removing features, UI elements and components that aren't needed by everyone.
